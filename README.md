@@ -12,6 +12,8 @@ Antes de demonstrar as configurações, vamos mostrar um erro que é apresentado
 
 ### 1. Configurações:
 
+**lembrar de separar minas e pa**
+
 Algumas configurações realizadas dentro do Acsiv serve para qualquer estado, nesse exemplo, será apresentado o estado de Minas e do Pará.
 
 *Obs.:* Não precisa se preocupar com essas configurações, pois elas sempre são configuradas pelo nosso suporte técnico, apenas para informações, vamos demonstrar:
@@ -75,16 +77,45 @@ Para criar um novo modelo, basta clicar em ![novo](https://github.com/gislenetav
  
  Ao criar, basta salvar e o modelo já estará disponível para utilização.
  
- Agora com o modelo de etiqueta criado, é possível criar o modelo de selo, pelo *(Menu > Cartório > Selo eletrônico > Modelos)*.
+ Agora com o modelo de etiqueta criado, é possível criar o modelo de selo, pelo *(Menu  Cartório > Selo eletrônico > Modelos)*.
  
  ![menu_selo](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/CRIAR_MODELO_SELO.png)
  
- Na aba etiqueta, selecione entre os modelos de etiquetas criados no *(Menu Cartório > Modelos de etiquetas)*, nesse foi utilizado o modelo de etiquetas de autenticação eletrônica.
- 
- ![modelo_selo](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/MODELO_ETIQUETAS.png)
  
  ![modelo_selo](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/SELO_ELETRONICO_MODELO_CRIADO.PNG)
  
+  Na aba etiqueta, selecione entre os modelos de etiquetas criados no *(Menu Cartório > Modelos de etiquetas)*, nesse foi utilizado o modelo de etiquetas de autenticação eletrônica.
+ 
+ ![modelo_selo](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/MODELO_ETIQUETAS.png)
 
 
+ **Pará - (PA):**
+ 
+ Menu Cartório > Modelos de etiquetas
+
+![modelo_etiquetas](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/MENU_CARTORIO_MODELOS_ETIQUETAS.png)
+
+Ao acessar o formulário e clicar em ![pesquisar](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/PESQUISAR.PNG), o sistema vai retornar todas as etiquetas existentes.
+
+![modelo_etiqueta](https://github.com/gislenetavaresacsiv/Atos/blob/main/PA/CARTORIO_ATOS_MODELOS_ETIQUETAS.PNG)
+
+Para criar um novo modelo, basta clicar em ![novo](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/NOVO.PNG) e selecionar qual modelo gostaria de criar em ![layout](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/MODELOS_LAYOUT.PNG).
+
+![opcoes_layout](https://github.com/gislenetavaresacsiv/Atos/blob/main/PA/LAYOUT_OPCOES.png)
+
+ Note o modelo de selo digital criado:
+ 
+ ![selo_digital](https://github.com/gislenetavaresacsiv/Atos/blob/main/PA/MODELOS_ETIQUETAS_CRIADO.PNG)
+ 
+ Ao criar, basta salvar e o modelo já estará disponível para utilização.
+ 
+ Agora com o modelo de etiqueta criado, é possível criar o modelo de selo, pelo *(Menu Selos > Modelos)*.
+
+![modelo_selo](https://github.com/gislenetavaresacsiv/Atos/blob/main/PA/SELO_MODELO_SELO.png)
+
+![modelo_pronto](https://github.com/gislenetavaresacsiv/Atos/blob/main/PA/MODELO_ETIQUETA_PRONTO.PNG)
+
+ Na aba etiqueta, selecione entre os modelos de etiquetas criados no *(Menu Cartório > Modelos de etiquetas)*, nesse foi utilizado o modelo de selo digital.
+ 
+ ![etiquetas_itens](https://github.com/gislenetavaresacsiv/Atos/blob/main/PA/MODELOS_ETIQUETAS_ITENS.png)
 
