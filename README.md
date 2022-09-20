@@ -65,11 +65,11 @@ Ao acessar o formulário e clicar em ![pesquisar](https://github.com/gislenetava
 
 ![etiquetas_criadas](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/MODELO_ETIQUETAS_CRIADAS.PNG)
 
-Para criar um novo modelo, basta clicar em ![novo](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/NOVO.PNG) e selecionar qual modelo gostaria de criar em [layout](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/MODELOS_LAYOUT.PNG).
+Para criar um novo modelo, basta clicar em ![novo](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/NOVO.PNG) e selecionar qual modelo gostaria de criar em ![layout](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/MODELOS_LAYOUT.PNG).
 
 ![modelo_layout](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/ITENS_LAYOUT.png)
 
- Nte o modelo de autenticação criado:
+ Note o modelo de autenticação criado:
  
  ![autenticacao](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/MODELO_AUTENTICACAO_CRIADO.PNG)
  
