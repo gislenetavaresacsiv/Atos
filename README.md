@@ -53,3 +53,10 @@ Esses são os campos e configurações que são necessárias para utilização n
 
 **Minas Gerais - (MG):**
 
+Menu Cartório > Modelos de etiquetas
+
+![modelo_etiquetas](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/MENU_CARTORIO_MODELOS_ETIQUETAS.png)
+
+Ao acessar o formulário e clicar em ![pesquisar]()
+
+
