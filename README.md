@@ -6,6 +6,10 @@ Em Atos *(Menu Cartório > Atos)*, é possível criar o ato e definir o modelo q
 
 O objetivo não será explicar o que é atos e sim, orientar como configurar ele para utilização dentro do Acsiv.
 
+Antes de demonstrar as configurações, vamos mostrar um erro que é apresentado na tela de emissão de selo, caso seu ato não esteja configurado da forma correta:
+
+![erro](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/MODELO_NAO_CONFIGURADO.PNG)
+
 ### 1. Configurações:
 
 Algumas configurações realizadas dentro do Acsiv serve para qualquer estado, nesse exemplo, será apresentado o estado de Minas e do Pará.
@@ -57,6 +61,30 @@ Menu Cartório > Modelos de etiquetas
 
 ![modelo_etiquetas](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/MENU_CARTORIO_MODELOS_ETIQUETAS.png)
 
-Ao acessar o formulário e clicar em ![pesquisar]()
+Ao acessar o formulário e clicar em ![pesquisar](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/PESQUISAR.PNG), o sistema vai retornar todas as etiquetas existentes.
+
+![etiquetas_criadas](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/MODELO_ETIQUETAS_CRIADAS.PNG)
+
+Para criar um novo modelo, basta clicar em ![novo](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/NOVO.PNG) e selecionar qual modelo gostaria de criar em ![layout](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/MODELOS_LAYOUT.PNG).
+
+![modelo_layout](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/ITENS_LAYOUT.png)
+
+ Note o modelo de autenticação criado:
+ 
+ ![autenticacao](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/MODELO_AUTENTICACAO_CRIADO.PNG)
+ 
+ Ao criar, basta salvar e o modelo já estará disponível para utilização.
+ 
+ Agora com o modelo de etiqueta criado, é possível criar o modelo de selo, pelo *(Menu > Cartório > Selo eletrônico > Modelos)*.
+ 
+ ![menu_selo](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/CRIAR_MODELO_SELO.png)
+ 
+ Na aba etiqueta, selecione entre os modelos de etiquetas criados no *(Menu Cartório > Modelos de etiquetas)*, nesse foi utilizado o modelo de etiquetas de autenticação eletrônica.
+ 
+ ![modelo_selo](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/MODELO_ETIQUETAS.png)
+ 
+ ![modelo_selo](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/SELO_ELETRONICO_MODELO_CRIADO.PNG)
+ 
+
 
 
