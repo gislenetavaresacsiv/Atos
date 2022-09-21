@@ -174,14 +174,28 @@ Para criar um novo modelo, basta clicar em ![novo](https://github.com/gislenetav
  
  Nesse exemplo foi utilizado o modelo de autenticação etiq. segurança, esse modelo de selo eletrônico foi criado em *(Menu Cartório > Selo eletrônico > Modelos)*.
  
- Se ao pesquisar o ato pelo código ou descrição da tabela do tribunal, não for encontrado na pesquisa, basta criar um novo ato pelo botão ![novo](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/NOVO.PNG)
+ Se ao pesquisar o ato pelo código ou descrição da tabela do tribunal, não for encontrado na pesquisa, basta criar um novo ato pelo botão ![novo](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/NOVO.PNG).
  
  Perceba que ao criar um novo ato, a tela será apresentada como a seguir:
  
- ![ato_novo](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/ATOS_NOVO.PNG).
+ ![ato_novo](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/ATOS_NOVO.PNG)
  
  Agora vamos preencher as devidas informações necessárias:
  
  **Aba Tabelas:** Para colocar o código da tabela, basta clicar em ![inserir](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/INSERIR.PNG).
+ 
+ É possível pesquisar pelo código ou pela descrição conforme a tabela do tribunal, nesse exemplo, foi utilizado o código.
+ 
+ ![pesquisa_tabela](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/ATOS_PESQUISA_TABELAS.PNG)
+ 
+ Após encontrar o código que precisa, basta clicar em ![selecionar](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/SELECIONAR.PNG).
+ 
+ O sistema busca o código da tabela e preenche a aba, conforme imagem a seguir:
+ 
+ ![tabela_preenchido](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/CODIGO_TABELA_PREENCHIDO.PNG)
+ 
+ Agora, você vai preencher os seguintes campos: Descrição *(se preferir, pode copiar a mesma descrição databela)*, Selagem física *(Desativada)*, Selo eletrônico.
+ 
+ ![pronto](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/ATO_CRIADO_PRONTO.PNG)
  
 
