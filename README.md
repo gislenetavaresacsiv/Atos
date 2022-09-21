@@ -234,7 +234,7 @@ Para criar um novo modelo, basta clicar em ![novo](https://github.com/gislenetav
  
  ![pre_itens](https://github.com/gislenetavaresacsiv/Atos/blob/main/PA/PRE_DEFINICOES_ITENS_SELOS.png)
  
- Após isso, clique em ![abrir_tabela](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/ABRIR_TABELA.PNG) no rodapé da tela, para abrir a tabela.
+ Após isso, clique em ![abrir_tabela](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/ABRIR_TABELA.PNG) encontrado no rodapé da tela, para abrir a tabela.
  
  ![tabela](https://github.com/gislenetavaresacsiv/Atos/blob/main/PA/ABRIR_TABELA_ABA_SELOS.PNG)
  
@@ -251,15 +251,17 @@ Para criar um novo modelo, basta clicar em ![novo](https://github.com/gislenetav
  
  Agora vamos preencher as devidas informações necessárias:
  
- **Aba Tabelas:** Para colocar o código da tabela, basta clicar em ![inserir](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/INSERIR.PNG).
+ **Aba Tabelas:** Para colocar o código da tabela, basta clicar em ![inserir](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/INSERIR.PNG), localizado no rodapé da tela.
  
  Ao clicar no botão inserir, o sistema vai apresentar a tela a seguir:
  
  ![selecionar](https://github.com/gislenetavaresacsiv/Atos/blob/main/PA/TABELAS_SELECIONAR.PNG)
  
- Basta digitar o código ou descrição do ato e ![pesquisar](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/PESQUISAR.PNG), quando o sistema retornar a pesquisa, clique em [selecionar](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/SELECIONAR.PNG). 
+ Basta digitar o código ou descrição do ato e ![pesquisar](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/PESQUISAR.PNG), quando o sistema retornar a pesquisa, clique em ![selecionar](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/SELECIONAR.PNG). 
  
  ![ato_pronto](https://github.com/gislenetavaresacsiv/Atos/blob/main/PA/ATOS_CRIADO.PNG)
+ 
+ Pronto, com essas configurações, o ato já está disponível para utilização na emissão do selo.
  
  
  
