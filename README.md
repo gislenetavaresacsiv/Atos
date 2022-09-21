@@ -12,7 +12,6 @@ Antes de demonstrar as configurações, vamos mostrar um erro que é apresentado
 
 ### 1. Configurações:
 
-**lembrar de separar minas e pa**
 
 Algumas configurações realizadas dentro do Acsiv serve para qualquer estado, nesse exemplo, será apresentado o estado de Minas e do Pará.
 
@@ -20,26 +19,28 @@ Algumas configurações realizadas dentro do Acsiv serve para qualquer estado, n
 
 As configurações são definidas pelo *(Menu Notas > Configurações)*
 
-**Aba Emolumentos:**
+**Minas - (MG)**
+
+**Aba Emolumentos**
 
 Aba emolumentos define o emolumento dos atos conforme imagem abaixo:
 
 ![emolumentos](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/CONFIGURACOES_EMOLUMENTOS_NOTAS.PNG)
 
 
-**a. Autenticação:** Preenchido com emolomento de autenticação de cópia por folha.
+**a. Autenticação:** Preenchido com emolumento de autenticação de cópia por folha.
 
-**b. Rec. firma:** Preenchido com emolomento de reconhecimento de firma por assinatura. 
+**b. Rec. firma:** Preenchido com emolumento de reconhecimento de firma por assinatura. 
 
-**c. Aut. eletrônica:** Preenchido com emolomento de autenticação eletrônica.
+**c. Aut. eletrônica:** Preenchido com emolumento de autenticação eletrônica.
 
-**d. Certidão:** Preenchido com emolomento de certidão, nesse caso, não foi preenchida.
+**d. Certidão:** Preenchido com emolumento de certidão, nesse caso, não foi preenchida.
 
-**e. Cartão:** Preenchido com emolomento de reconhecimento de firma pela confecção e guarda de cartão ou ficha de assinatura.
+**e. Cartão:** Preenchido com emolumento de reconhecimento de firma pela confecção e guarda de cartão ou ficha de assinatura.
 
-**f. Arquivamento:** Preenchido com emolomento de Arquivamento por folha.
+**f. Arquivamento:** Preenchido com emolumento de Arquivamento por folha.
 
-**Aba Etiquetas:**
+**Aba Etiquetas**
 
 Aba Etiquetas é utilizada para selecionar o modelo de etiqueta *(Vamos ensinar mais adiante como criar modelo de etiquetas)* que será utilizado para emissão do selo.
 
@@ -53,11 +54,33 @@ Aba Etiquetas é utilizada para selecionar o modelo de etiqueta *(Vamos ensinar 
 
 **d. Q. nomes rec.:** Utilizado para definir a quantidades de nomes que serão apresentados na etiqueta de reconhecimento de firma.
 
+**Pará - (PA)**
+
+**Aba Emolumentos**
+
+Aba emolumentos define o emolumento dos atos conforme imagem abaixo:
+
+![aba_emolumentos](https://github.com/gislenetavaresacsiv/Atos/blob/main/PA/CONFIGURACOES_NOTAS_ABA_EMOLUMENTOS.PNG)
+
+**a. Autenticação:** Preenchido com emolumento de autenticação de autenticação.
+
+**b. Rec. firma:** Preenchido com emolumento de reconhecimento de firma.
+
+**Aba Etiquetas**
+
+Aba Etiquetas é utilizada para selecionar o modelo de etiqueta *(Vamos ensinar mais adiante como criar modelo de etiquetas)* que será utilizado para emissão do selo.
+
+![modelo_etiquetas](https://github.com/gislenetavaresacsiv/Atos/blob/main/PA/CONFIGURACOES_NOTAS_ABA_ETIQUETAS.PNG)
+
+**Autenticação:** Utilizado para selecionar etiqueta de selo digital autenticação.
+
+**Rec. firma:** Utilizado para selecionar etiqueta de selo digital reconhecimento.
+
 Esses são os campos e configurações que são necessárias para utilização nos atos.
 
 *Antes de demonstrar a criação e configuração de um novo ato dentro do Acsiv, vamos demonstrar como criar modelos de etiquetas e modelos de selos.*
 
-**Minas Gerais - (MG):**
+**Minas Gerais - (MG)**
 
 Menu Cartório > Modelos de etiquetas
 
@@ -89,7 +112,7 @@ Para criar um novo modelo, basta clicar em ![novo](https://github.com/gislenetav
  ![modelo_selo](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/MODELO_ETIQUETAS.png)
 
 
- **Pará - (PA):**
+ **Pará - (PA)**
  
  Menu Cartório > Modelos de etiquetas
 
@@ -111,7 +134,7 @@ Para criar um novo modelo, basta clicar em ![novo](https://github.com/gislenetav
  
  Agora com o modelo de etiqueta criado, é possível criar o modelo de selo, pelo *(Menu Selos > Modelos)*.
 
-![modelo_selo](https://github.com/gislenetavaresacsiv/Atos/blob/main/PA/SELO_MODELO_SELO.png)
+![selo](https://github.com/gislenetavaresacsiv/Atos/blob/main/PA/SELO_MODELO_SELO.png)
 
 ![modelo_pronto](https://github.com/gislenetavaresacsiv/Atos/blob/main/PA/MODELO_ETIQUETA_PRONTO.PNG)
 
