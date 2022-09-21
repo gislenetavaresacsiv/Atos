@@ -10,7 +10,7 @@ Antes de demonstrar as configurações, vamos mostrar um erro que é apresentado
 
 ![erro](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/MODELO_NAO_CONFIGURADO.PNG)
 
-### 1. Configurações:
+### Configurações:
 
 
 Algumas configurações realizadas dentro do Acsiv serve para qualquer estado, nesse exemplo, será apresentado o estado de Minas e do Pará.
