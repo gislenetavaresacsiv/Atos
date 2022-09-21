@@ -204,4 +204,10 @@ Para criar um novo modelo, basta clicar em ![novo](https://github.com/gislenetav
  
  ![menu](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/MENU.png)
  
+ Ao acessar o menu, basta colocar o código da tabela e clicar em ![pesquisar](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/PESQUISAR.PNG).
+ 
+ O sistema vai retornar a pesquisa como imagem a seguir:
+ 
+ ![pesquisa_atos](https://github.com/gislenetavaresacsiv/Atos/blob/main/PA/ATOS_PESQUISA.PNG)
+ 
 
