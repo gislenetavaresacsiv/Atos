@@ -158,5 +158,19 @@ Para criar um novo modelo, basta clicar em ![novo](https://github.com/gislenetav
  
  Vamos clicar em ![abrir](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/ABRIR.PNG) para configurar o ato para utilização.
  
- ![]()
+ ![ato_criado](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/ATO_CRIADO.PNG)
+ 
+ Vamos demonstrar as informações que são necessárias para a utilização do ato na emissão de selos, as outras informações, são preenchidas conforme a necessidade do cartório.
+ 
+ **a. Código:** Gerado automático pelo sistema.
+ 
+ **b. Descrição:** Utilizado para colocar a descrição do ato.
+ 
+ **c. Selagem física:** Utilizado para colocar a forma de selagem física, nesse caso, como não existe selagem física, selecione a opção *Desativada*.
+ 
+ **d. Selo Eletrônico:** Utilizado para escolher o modelo de selo eletrônico.
+ 
+ ![modelo_selo](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/MODELO_SELO.png)
+ 
+ Nesse exemplo foi utilizado o modelo de autenticação etiq. segurança.
 
