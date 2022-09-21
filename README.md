@@ -210,4 +210,50 @@ Para criar um novo modelo, basta clicar em ![novo](https://github.com/gislenetav
  
  ![pesquisa_atos](https://github.com/gislenetavaresacsiv/Atos/blob/main/PA/ATOS_PESQUISA.PNG)
  
+ Para configurar o ato para utilização na emissão de selo, basta clicar em ![abrir](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/ABRIR.PNG).
+ 
+ ![ato_criado](https://github.com/gislenetavaresacsiv/Atos/blob/main/PA/ATOS_CRIADO.PNG)
+ 
+ Vamos demonstrar as informações que são necessárias para a utilização do ato na emissão de selos, as outras informações, são preenchidas conforme a necessidade do cartório.
+ 
+ **a. Código:** Código gerado automático pelo sistema.
+ 
+ **b. Descrição:** Descrição(nome) do ato.
+ 
+ **c. Selagem física:** Utilizado para colocar a forma de selagem física, nesse caso, como não existe selagem física, selecione a opção Desativada.
+ 
+ **d. Selo digital:** Utilizado para escolher o modelo de selo digital.
+ 
+ ![opcoes](https://github.com/gislenetavaresacsiv/Atos/blob/main/PA/ATOS_SELO_OPCOES.png)
+ 
+ Nesse exemplo, foi utilizado o modelo de selo digital autenticação,modelo foi criado em (Menu Selos > Modelos).
+ 
+ Para definir o tipo de selo a ser utilizado no ato, basta clicar em ![pre_definicoes](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/EXIBIR_PRE_DENICOES.PNG), localizado no rodapé da página.
+ 
+ Ao clicar em pré-definições, será apresentado uma aba lateral para selecionar o tipo de selo digital:
+ 
+ ![pre_itens](https://github.com/gislenetavaresacsiv/Atos/blob/main/PA/PRE_DEFINICOES_ITENS_SELOS.png)
+ 
+ Após isso, clique em ![abrir_tabela](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/ABRIR_TABELA.PNG) no rodapé da tela, para abrir a tabela.
+ 
+ ![tabela](https://github.com/gislenetavaresacsiv/Atos/blob/main/PA/ABRIR_TABELA_ABA_SELOS.PNG)
+ 
+ Na aba selo, defina o tipo de selo digital.
+ 
+ ![tipo_selo](https://github.com/gislenetavaresacsiv/Atos/blob/main/PA/TABELAS_TIPO_SELO_DIGITAL_PRONTO.png)
+ 
+ 
+  Se ao pesquisar o ato pelo código ou descrição da tabela do tribunal, não for encontrado na pesquisa, basta criar um novo ato pelo botão ![novo](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/NOVO.PNG).
+ 
+ Perceba que ao criar um novo ato, a tela será apresentada como a seguir:
+ 
+ ![tela_novo](https://github.com/gislenetavaresacsiv/Atos/blob/main/PA/ATOS_CRIADO_NOVO.PNG)
+ 
+ Agora vamos preencher as devidas informações necessárias:
+ 
+ **Aba Tabelas:** Para colocar o código da tabela, basta clicar em ![inserir](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/INSERIR.PNG).
+ 
+ 
+ 
+ 
 
