@@ -162,7 +162,7 @@ Para criar um novo modelo, basta clicar em ![novo](https://github.com/gislenetav
  
  Vamos demonstrar as informações que são necessárias para a utilização do ato na emissão de selos, as outras informações, são preenchidas conforme a necessidade do cartório.
  
- **a. Código:** Gerado automático pelo sistema.
+ **a. Código:** Código gerado automático pelo sistema.
  
  **b. Descrição:** Utilizado para colocar a descrição do ato.
  
@@ -172,5 +172,42 @@ Para criar um novo modelo, basta clicar em ![novo](https://github.com/gislenetav
  
  ![modelo_selo](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/MODELO_SELO.png)
  
- Nesse exemplo foi utilizado o modelo de autenticação etiq. segurança.
+ Nesse exemplo foi utilizado o modelo de autenticação etiq. segurança, esse modelo de selo eletrônico foi criado em *(Menu Cartório > Selo eletrônico > Modelos)*.
+ 
+ Se ao pesquisar o ato pelo código ou descrição da tabela do tribunal, não for encontrado na pesquisa, basta criar um novo ato pelo botão ![novo](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/NOVO.PNG).
+ 
+ Perceba que ao criar um novo ato, a tela será apresentada como a seguir:
+ 
+ ![ato_novo](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/ATOS_NOVO.PNG)
+ 
+ Agora vamos preencher as devidas informações necessárias:
+ 
+ **Aba Tabelas:** Para colocar o código da tabela, basta clicar em ![inserir](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/INSERIR.PNG).
+ 
+ É possível pesquisar pelo código ou pela descrição conforme a tabela do tribunal, nesse exemplo, foi utilizado o código.
+ 
+ ![pesquisa_tabela](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/ATOS_PESQUISA_TABELAS.PNG)
+ 
+ Após encontrar o código que precisa, basta clicar em ![selecionar](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/SELECIONAR.PNG).
+ 
+ O sistema busca o código da tabela e preenche a aba, conforme imagem a seguir:
+ 
+ ![tabela_preenchido](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/CODIGO_TABELA_PREENCHIDO.PNG)
+ 
+ Agora, você vai preencher os seguintes campos: Descrição *(se preferir, pode copiar a mesma descrição da tabela)*, Selagem física *(Desativada)*, Selo eletrônico.
+ 
+ ![pronto](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/ATO_CRIADO_PRONTO.PNG)
+ 
+ **Pará - (PA)**
+ 
+ Acesse o *(Menu Cartório > Atos).*
+ 
+ ![menu](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/MENU.png)
+ 
+ Ao acessar o menu, basta colocar o código da tabela e clicar em ![pesquisar](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/PESQUISAR.PNG).
+ 
+ O sistema vai retornar a pesquisa como imagem a seguir:
+ 
+ ![pesquisa_atos](https://github.com/gislenetavaresacsiv/Atos/blob/main/PA/ATOS_PESQUISA.PNG)
+ 
 
