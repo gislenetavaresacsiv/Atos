@@ -234,7 +234,7 @@ Para criar um novo modelo, basta clicar em ![novo](https://github.com/gislenetav
  
  ![pre_itens](https://github.com/gislenetavaresacsiv/Atos/blob/main/PA/PRE_DEFINICOES_ITENS_SELOS.png)
  
- Após isso, clique em ![abrir_tabela](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/ABRIR_TABELA.PNG), para abrir a tabela.
+ Após isso, clique em ![abrir_tabela](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/ABRIR_TABELA.PNG) no rodapé da tela, para abrir a tabela.
  
  ![tabela](https://github.com/gislenetavaresacsiv/Atos/blob/main/PA/ABRIR_TABELA_ABA_SELOS.PNG)
  
@@ -248,6 +248,10 @@ Para criar um novo modelo, basta clicar em ![novo](https://github.com/gislenetav
  Perceba que ao criar um novo ato, a tela será apresentada como a seguir:
  
  ![tela_novo](https://github.com/gislenetavaresacsiv/Atos/blob/main/PA/ATOS_CRIADO_NOVO.PNG)
+ 
+ Agora vamos preencher as devidas informações necessárias:
+ 
+ **Aba Tabelas:** Para colocar o código da tabela, basta clicar em ![inserir](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/INSERIR.PNG).
  
  
  
