@@ -162,7 +162,7 @@ Para criar um novo modelo, basta clicar em ![novo](https://github.com/gislenetav
  
  Vamos demonstrar as informações que são necessárias para a utilização do ato na emissão de selos, as outras informações, são preenchidas conforme a necessidade do cartório.
  
- **a. Código:** Gerado automático pelo sistema.
+ **a. Código:** Código gerado automático pelo sistema.
  
  **b. Descrição:** Utilizado para colocar a descrição do ato.
  
@@ -172,5 +172,16 @@ Para criar um novo modelo, basta clicar em ![novo](https://github.com/gislenetav
  
  ![modelo_selo](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/MODELO_SELO.png)
  
- Nesse exemplo foi utilizado o modelo de autenticação etiq. segurança.
+ Nesse exemplo foi utilizado o modelo de autenticação etiq. segurança, esse modelo de selo eletrônico foi criado em *(Menu Cartório > Selo eletrônico > Modelos)*.
+ 
+ Se ao pesquisar o ato pelo código ou descrição da tabela do tribunal, não for encontrado na pesquisa, basta criar um novo ato pelo botão ![novo](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/NOVO.PNG)
+ 
+ Perceba que ao criar um novo ato, a tela será apresentada como a seguir:
+ 
+ ![ato_novo](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/ATOS_NOVO.PNG).
+ 
+ Agora vamos preencher as devidas informações necessárias:
+ 
+ **Aba Tabelas:** Para colocar o código da tabela, basta clicar em ![inserir](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/INSERIR.PNG).
+ 
 
