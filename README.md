@@ -72,9 +72,9 @@ Aba Etiquetas é utilizada para selecionar o modelo de etiqueta *(Vamos ensinar 
 
 ![modelo_etiquetas](https://github.com/gislenetavaresacsiv/Atos/blob/main/PA/CONFIGURACOES_NOTAS_ABA_ETIQUETAS.PNG)
 
-**Autenticação:** Utilizado para selecionar etiqueta de selo digital autenticação.
+**a. Autenticação:** Utilizado para selecionar etiqueta de selo digital autenticação.
 
-**Rec. firma:** Utilizado para selecionar etiqueta de selo digital reconhecimento.
+**b. Rec. firma:** Utilizado para selecionar etiqueta de selo digital reconhecimento.
 
 Esses são os campos e configurações que são necessárias para utilização nos atos.
 
@@ -141,4 +141,22 @@ Para criar um novo modelo, basta clicar em ![novo](https://github.com/gislenetav
  Na aba etiqueta, selecione entre os modelos de etiquetas criados no *(Menu Cartório > Modelos de etiquetas)*, nesse foi utilizado o modelo de selo digital.
  
  ![etiquetas_itens](https://github.com/gislenetavaresacsiv/Atos/blob/main/PA/MODELOS_ETIQUETAS_ITENS.png)
+ 
+ Vamos agora entender como criar e configurar um ato dentro do Acsiv.
+ 
+ **Minas - (MG)**
+ 
+ Acesse o *(Menu Cartório > Atos).*
+ 
+ ![menu](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/MENU.png)
+ 
+ Ao acessar o menu, basta colocar o código da tabela e clicar em ![pesquisar](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/PESQUISAR.PNG).
+ 
+ O sistema vai retornar a pesquisa como imagem a seguir:
+ 
+ ![pesquisa_atos](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/1.PNG)
+ 
+ Vamos clicar em ![abrir](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/ABRIR.PNG) para configurar o ato para utilização.
+ 
+ ![]()
 
