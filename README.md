@@ -194,8 +194,14 @@ Para criar um novo modelo, basta clicar em ![novo](https://github.com/gislenetav
  
  ![tabela_preenchido](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/CODIGO_TABELA_PREENCHIDO.PNG)
  
- Agora, você vai preencher os seguintes campos: Descrição *(se preferir, pode copiar a mesma descrição databela)*, Selagem física *(Desativada)*, Selo eletrônico.
+ Agora, você vai preencher os seguintes campos: Descrição *(se preferir, pode copiar a mesma descrição da tabela)*, Selagem física *(Desativada)*, Selo eletrônico.
  
  ![pronto](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/ATO_CRIADO_PRONTO.PNG)
+ 
+ **Pará - (PA)**
+ 
+ Acesse o *(Menu Cartório > Atos).*
+ 
+ ![menu](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/MENU.png)
  
 
