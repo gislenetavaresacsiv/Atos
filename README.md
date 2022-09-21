@@ -253,6 +253,20 @@ Para criar um novo modelo, basta clicar em ![novo](https://github.com/gislenetav
  
  **Aba Tabelas:** Para colocar o código da tabela, basta clicar em ![inserir](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/INSERIR.PNG).
  
+ Ao clicar no botão inserir, o sistema vai apresentar a tela a seguir:
+ 
+ ![selecionar](https://github.com/gislenetavaresacsiv/Atos/blob/main/PA/TABELAS_SELECIONAR.PNG)
+ 
+ Basta digitar o código ou descrição do ato e ![pesquisar](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/PESQUISAR.PNG), quando o sistema retornar a pesquisa, clique em [selecionar](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/SELECIONAR.PNG). 
+ 
+ ![ato_pronto](https://github.com/gislenetavaresacsiv/Atos/blob/main/PA/ATOS_CRIADO.PNG)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
  
