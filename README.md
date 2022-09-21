@@ -15,7 +15,7 @@ Antes de demonstrar as configurações, vamos mostrar um erro que é apresentado
 
 Algumas configurações realizadas dentro do Acsiv serve para qualquer estado, nesse exemplo, será apresentado o estado de Minas e do Pará.
 
-*Obs.:* Não precisa se preocupar com essas configurações, pois elas sempre são configuradas pelo nosso suporte técnico, apenas para informações, vamos demonstrar:
+*Obs.:* Não precisa se preocupar com essas configurações, pois elas sempre são configuradas pelo nosso suporte técnico, apenas para informações, vamos demonstrar. Mas o objetivo desse manual é demonstrar como criar e configurar um ato para utilização na emissão de selos.*
 
 As configurações são definidas pelo *(Menu Notas > Configurações)*
 
@@ -34,7 +34,7 @@ Aba emolumentos define o emolumento dos atos conforme imagem abaixo:
 
 **c. Aut. eletrônica:** Preenchido com emolumento de autenticação eletrônica.
 
-**d. Certidão:** Preenchido com emolumento de certidão, nesse caso, não foi preenchida.
+**d. Certidão:** Preenchido com emolumento de certidão, nesse exemplo, não foi preenchida.
 
 **e. Cartão:** Preenchido com emolumento de reconhecimento de firma pela confecção e guarda de cartão ou ficha de assinatura.
 
@@ -261,7 +261,7 @@ Para criar um novo modelo, basta clicar em ![novo](https://github.com/gislenetav
  
  ![ato_pronto](https://github.com/gislenetavaresacsiv/Atos/blob/main/PA/ATOS_CRIADO.PNG)
  
- Pronto, com essas configurações, o ato já está disponível para utilização na emissão do selo.
+ Pronto, com essas configurações, o ato já está disponível para utilização na emissão de selos.
  
  
  
