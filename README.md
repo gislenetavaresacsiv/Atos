@@ -6,7 +6,7 @@ Em Atos *(Menu Cartório > Atos)*, é possível criar o ato e definir o modelo q
 
 O objetivo não será explicar o que é atos e sim, orientar como configurar ele para utilização dentro do Acsiv.
 
-Antes de demonstrar as configurações, vamos mostrar um erro que é apresentado na tela de emissão de selo, caso seu ato não esteja configurado da forma correta:
+Antes de demonstrar as configurações, vamos mostrar um erro que é apresentado na tela de emissão de selos, caso seu ato não esteja configurado da forma correta:
 
 ![erro](https://github.com/gislenetavaresacsiv/Atos/blob/main/MG/MODELO_NAO_CONFIGURADO.PNG)
 
@@ -15,7 +15,7 @@ Antes de demonstrar as configurações, vamos mostrar um erro que é apresentado
 
 Algumas configurações realizadas dentro do Acsiv serve para qualquer estado, nesse exemplo, será apresentado o estado de Minas e do Pará.
 
-*Obs.:* Não precisa se preocupar com essas configurações, pois elas sempre são configuradas pelo nosso suporte técnico, apenas para informações, vamos demonstrar. Mas o objetivo desse manual é demonstrar como criar e configurar um ato para utilização na emissão de selos.*
+*Obs.:* *Não precisa se preocupar com essas configurações, pois elas sempre são configuradas pelo nosso suporte técnico, apenas para informações, vamos demonstrar. Mas o objetivo desse manual é demonstrar como criar e configurar um ato para utilização na emissão de selos.*
 
 As configurações são definidas pelo *(Menu Notas > Configurações)*
 
@@ -62,7 +62,7 @@ Aba emolumentos define o emolumento dos atos conforme imagem abaixo:
 
 ![aba_emolumentos](https://github.com/gislenetavaresacsiv/Atos/blob/main/PA/CONFIGURACOES_NOTAS_ABA_EMOLUMENTOS.PNG)
 
-**a. Autenticação:** Preenchido com emolumento de autenticação de autenticação.
+**a. Autenticação:** Preenchido com emolumento de autenticação.
 
 **b. Rec. firma:** Preenchido com emolumento de reconhecimento de firma.
 
@@ -162,7 +162,7 @@ Para criar um novo modelo, basta clicar em ![novo](https://github.com/gislenetav
  
  Vamos demonstrar as informações que são necessárias para a utilização do ato na emissão de selos, as outras informações, são preenchidas conforme a necessidade do cartório.
  
- **a. Código:** Código gerado automático pelo sistema.
+ **a. Código:** Gerado automático pelo sistema.
  
  **b. Descrição:** Utilizado para colocar a descrição do ato.
  
@@ -182,7 +182,7 @@ Para criar um novo modelo, basta clicar em ![novo](https://github.com/gislenetav
  
  Agora vamos preencher as devidas informações necessárias:
  
- **Aba Tabelas:** Para colocar o código da tabela, basta clicar em ![inserir](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/INSERIR.PNG).
+ **Aba Tabelas:** Para colocar o código da tabela, basta clicar em ![inserir](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/INSERIR.PNG), localizado no rodapé da tela.
  
  É possível pesquisar pelo código ou pela descrição conforme a tabela do tribunal, nesse exemplo, foi utilizado o código.
  
@@ -216,9 +216,9 @@ Para criar um novo modelo, basta clicar em ![novo](https://github.com/gislenetav
  
  Vamos demonstrar as informações que são necessárias para a utilização do ato na emissão de selos, as outras informações, são preenchidas conforme a necessidade do cartório.
  
- **a. Código:** Código gerado automático pelo sistema.
+ **a. Código:** Gerado automático pelo sistema.
  
- **b. Descrição:** Descrição(nome) do ato.
+ **b. Descrição:** Descrição*(nome)* do ato.
  
  **c. Selagem física:** Utilizado para colocar a forma de selagem física, nesse caso, como não existe selagem física, selecione a opção Desativada.
  
@@ -226,7 +226,7 @@ Para criar um novo modelo, basta clicar em ![novo](https://github.com/gislenetav
  
  ![opcoes](https://github.com/gislenetavaresacsiv/Atos/blob/main/PA/ATOS_SELO_OPCOES.png)
  
- Nesse exemplo, foi utilizado o modelo de selo digital autenticação,modelo foi criado em (Menu Selos > Modelos).
+ Nesse exemplo, foi utilizado o modelo de selo digital autenticação, modelo foi criado em (Menu Selos > Modelos).
  
  Para definir o tipo de selo a ser utilizado no ato, basta clicar em ![pre_definicoes](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/EXIBIR_PRE_DENICOES.PNG), localizado no rodapé da página.
  
