@@ -13,9 +13,11 @@ Antes de demonstrar as configurações, vamos mostrar um erro que é apresentado
 ### Configurações:
 
 
-Algumas configurações realizadas dentro do Acsiv serve para qualquer estado, nesse exemplo, será apresentado o estado de Minas e do Pará.
+Algumas configurações realizadas dentro do Acsiv servem para qualquer estado, nesse exemplo, será apresentado o estado de Minas e do Pará.
 
-*Obs.:* *Não precisa se preocupar com essas configurações, pois elas sempre são configuradas pelo nosso suporte técnico, apenas para informações, vamos demonstrar. Mas o objetivo desse manual é demonstrar como criar e configurar um ato para utilização na emissão de selos.*
+*Obs.:* *Não precisa se preocupar com as configurações iniciais, são elas **(* Menu Notas > Configurações > Aba Emolumentos > Aba Etiquetas, * Menu Cartório > Modelos de etiquetas, * Menu Cartório > Selo Eletrônico > Modelos)**, pois elas sempre são configuradas pelo nosso suporte técnico, apenas para informações, vamos demonstrar.* 
+
+Mas o objetivo desse manual é demonstrar e auxiliar na criação e configuração do ato para utilização na emissão de selos.
 
 As configurações são definidas pelo *(Menu Notas > Configurações)*
 
@@ -230,7 +232,7 @@ Para criar um novo modelo, basta clicar em ![novo](https://github.com/gislenetav
  
  Para definir o tipo de selo a ser utilizado no ato, basta clicar em ![pre_definicoes](https://github.com/gislenetavaresacsiv/Atos/blob/main/BOTOES/EXIBIR_PRE_DENICOES.PNG), localizado no rodapé da página.
  
- Ao clicar em pré-definições, será apresentado uma aba lateral para selecionar o tipo de selo digital:
+ Ao clicar em predefinições, será apresentado uma aba lateral para selecionar o tipo de selo digital:
  
  ![pre_itens](https://github.com/gislenetavaresacsiv/Atos/blob/main/PA/PRE_DEFINICOES_ITENS_SELOS.png)
  
