@@ -266,7 +266,7 @@ Para criar um novo modelo, basta clicar em ![novo](https://github.com/gislenetav
  Pronto, com essas configurações, o ato já está disponível para utilização na emissão de selos.
  
  
- 
+
  
  
  
