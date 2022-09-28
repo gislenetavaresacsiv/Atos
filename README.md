@@ -15,11 +15,11 @@ Antes de demonstrar as configurações, vamos mostrar um erro que é apresentado
 
 Algumas configurações realizadas dentro do Acsiv servem para qualquer estado, nesse exemplo, será apresentado o estado de Minas e do Pará.
 
-*Obs.:* *Não precisa se preocupar com as configurações iniciais, são elas **( (Menu Notas > Configurações > Aba Emolumentos > Aba Etiquetas),  (Menu Cartório > Modelos de etiquetas) , (Menu Cartório > Selo Eletrônico > Modelos))**, pois elas sempre são configuradas pelo nosso suporte técnico, apenas para informações, vamos demonstrar.* 
+*Obs.:* *Não precisa se preocupar com as configurações iniciais, são elas **( (Menu Notas > Configurações > Aba Emolumentos > Aba Etiquetas),  (Menu Cartório > Modelos de etiquetas) , (Menu Cartório > Selo Eletrônico > Modelos) )**, pois elas sempre são configuradas pelo nosso suporte técnico, apenas para informações, vamos demonstrar.* 
 
 Mas o objetivo desse manual é demonstrar e auxiliar na criação e configuração do ato para utilização na emissão de selos.
 
-As configurações são definidas pelo *(Menu Notas > Configurações)*
+As configurações são definidas pelo *(Menu Notas > Configurações).*
 
 **Minas - (MG)**
 
